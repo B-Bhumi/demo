@@ -991,8 +991,8 @@ ul {
 	font-size: 14px;
     font-weight: 600;
 }
-.worktext a{
-	color: #212121;
+.worktext a {
+    color: #afafaf;
 }
 .worktext a:hover{
 	color: #FFD15A;
@@ -1592,3 +1592,8 @@ ul {
     filter: blur(4px);
   }
 }
+
+
+
+
+
